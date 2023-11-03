@@ -24,6 +24,8 @@ Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
+		Photo by JOHN TOWNER on Unsplash
+  
 
 	Icons:
 		Font Awesome (fontawesome.io)
